@@ -1,0 +1,28 @@
+* {
+    font-family: "Copperplate", fantasy;
+    /*background-color: rgb(255, 170, 219); */
+    background-color: white;
+    color: rgb(240, 43, 181);
+}
+#sitename {
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+.main {
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+p {
+    background-color: white;
+}
